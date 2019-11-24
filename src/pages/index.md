@@ -1,8 +1,8 @@
 ---
 templateKey: index-page
 title: PWD Gatsby Test
-image: /pwd-images/sky.jpg
-heading: P
+image: /img/sky.jpg
+heading: PWD Gatsby + Netlify CMS Test
 subheading: Web Design & Digital Marketing
 mainpitch:
   title: Why Kaldi
